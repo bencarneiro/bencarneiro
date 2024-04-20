@@ -1,14 +1,15 @@
-# Ben Carneiro - Software Engineer
+# Ben Carneiro - Software Engineer - <a href="https://censusmaps.org/resume">Resume</a>
 
 I like free software, public transit, databases, GIS systems, and those electric scooters that litter the streets. 
 
 I need work. I learn well. Python is my language of choice. 
-resume: https://censusmaps.org/resume
+
+
 
 # Projects
 ## <a href="https://censusmaps.org">censusmaps.org</a>
 Make free demographic maps of any metro in the US --- 
-<a href="github.com/bencarneiro/maps">repo</a>
+<a href="https://github.com/bencarneiro/maps">repo</a>
 <ul>
   <li>Make interactive, 3D maps by simply sharing a URL</li>
   <li>Export GeoJSON layers to make custom maps wherever you please</li>
@@ -20,7 +21,7 @@ Make free demographic maps of any metro in the US ---
 
 ## <a href="https://transit.observer">transit.observer</a>
 Explore public transit spending and performance data for any transit agency in the US--- 
-<a href="github.com/bencarneiro/transportation-bots">repo</a>
+<a href="https://github.com/bencarneiro/transportation-bots">repo</a>
 <ul>
   <li>Inspect transit trends dating back to 1985</li>
   <li>See information on capital and operating spending</li>
@@ -33,7 +34,7 @@ Explore public transit spending and performance data for any transit agency in t
 
 ## <a href="https://draft.support">draft.support</a>
 Make good decisions drafting fantasy football teams --- 
-<a href="github.com/bencarneiro/fantasy">repo</a>
+<a href="https://github.com/bencarneiro/fantasy">repo</a>
 <ul>
   <li>This quick-reference for draft day shows player and team statistics from previous seasons</li>
   <li>Minimal UI allows fast lookups and player comparisons</li>
@@ -47,4 +48,4 @@ Make good decisions drafting fantasy football teams ---
 
 ## <a href="https://hippie.city">hippie.city</a>
 I run a bike tours business too. Website is django --- 
-<a href="github.com/bencarneiro/biketours">repo</a>
+<a href="https://github.com/bencarneiro/biketours">repo</a>
