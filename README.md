@@ -2,10 +2,7 @@
 
 I like free software, public transit, databases, GIS systems, and those electric scooters that litter the streets. 
 
-I need work. I learn well. Python is my language of choice. 
-
-I run my own mastodon instance. My handle is <a href="https://bencarneiro.com/@ben">@ben@bencarneiro.com</a>
-
+Always eager to learn new technologies.
 
 
 # Projects
@@ -30,8 +27,6 @@ Explore public transit spending and performance data for any transit agency in t
   <li>See data on hours/miles of service provided, ridership, cost-efficiency</li>
 </ul>
 
-
-
 <img src="https://censusmaps.org/static/transit.png">
 
 ## <a href="https://draft.support">draft.support</a>
@@ -43,11 +38,13 @@ Make good decisions drafting fantasy football teams ---
   <li>Draft the best player available, regardless of who is left on the board</li>
 </ul>
 
-
-
 <img src="https://censusmaps.org/static/football.png">
 
 
 ## <a href="https://hippie.city">hippie.city</a>
 I run a bike tours business too. Website is django --- 
 <a href="https://github.com/bencarneiro/biketours">repo</a>
+
+
+## <a href="https://bencarneiro.com/@ben">Mastodon</a>
+I run my own Mastodon server. Drop me a follow if you're chill like that
