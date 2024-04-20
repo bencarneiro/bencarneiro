@@ -1,16 +1,17 @@
-### Hi there 👋
+# Ben Carneiro - Software Engineer
 
-<!--
-**bencarneiro/bencarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like free software, public transit, databases, GIS systems, and those electric scooters that litter the streets. 
 
-Here are some ideas to get you started:
+I need work. I learn well. Python is my language of choice. 
+resume: https://censusmaps.org/resume
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+## <a href="https://censusmaps.org">censusmaps.org</a>
+Make free demographic maps of any metro in the US. 
+<ul>
+  <li>Make interactive, 3D maps by simply sharing a URL</li>
+  <li>Export GeoJSON layers to make custom maps wherever you please</li>
+  <li>Great reference for urban planners / demographers</li>
+</ul>
+
+<img src="https://censusmaps.org/static/la.png">
