@@ -4,6 +4,8 @@ I like free software, public transit, databases, GIS systems, and those electric
 
 I need work. I learn well. Python is my language of choice. 
 
+I run my own mastodon instance. My handle is <a href="https://bencarneiro.com/@ben">@ben@bencarneiro.com</a>
+
 
 
 # Projects
