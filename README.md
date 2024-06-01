@@ -4,6 +4,8 @@ I like free software, public transit, databases, GIS systems, and those electric
 
 Always eager to learn new technologies.
 
+I am low-key more capable than your Sr Engineer Derek- except I am a part-time waiter at a cajun restaurant. I could really use a job if you have any leads. 
+
 
 # Projects
 ## <a href="https://censusmaps.org">censusmaps.org</a>
