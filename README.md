@@ -8,6 +8,18 @@ Looking for work! I'd love to be on your team, working on interesting stuff.
 
 
 # Projects
+## <a href="https://roadway.report/v1/docs">roadway.report</a> -- under development
+Make free demographic maps of any metro in the US --- 
+<a href="https://github.com/bencarneiro/ntsb">repo</a>
+<ul>
+  <li>Access automobile fatality data for anywhere in the USA, 1975-2022</li>
+  <li>Click on any street and see anyone who has ever died there</li>
+  <li>Query, filter, and sort on hundreds of variables tracked by the feds</li>
+  <li>FOSS API is generalized to allow developers to spin up frontend applications for any region</li>
+</ul>
+<br>
+
+# Projects
 ## <a href="https://censusmaps.org">censusmaps.org</a>
 Make free demographic maps of any metro in the US --- 
 <a href="https://github.com/bencarneiro/maps">repo</a>
