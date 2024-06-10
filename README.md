@@ -18,7 +18,6 @@ Access automobile fatality data for anywhere in the USA, 1975-2022 ---
 </ul>
 <br>
 
-# Projects
 ## <a href="https://censusmaps.org">censusmaps.org</a>
 Make free demographic maps of any metro in the US --- 
 <a href="https://github.com/bencarneiro/maps">repo</a>
