@@ -8,7 +8,7 @@ Looking for work! I'd love to be on your team, working on interesting stuff.
 
 
 # Projects
-## <a href="https://roadway.report/v1/docs">roadway.report</a> -- under development
+## <a href="https://roadway.report">roadway.report</a> -- under development
 Access automobile fatality data for anywhere in the USA, 1975-2022 --- 
 <a href="https://github.com/bencarneiro/ntsb">repo</a>
 <ul>
