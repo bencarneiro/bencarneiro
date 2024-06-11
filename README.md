@@ -9,6 +9,7 @@ Looking for work! I'd love to be on your team, working on interesting stuff.
 
 # Projects
 ## <a href="https://roadway.report">roadway.report</a> -- under development
+
 Access automobile fatality data for anywhere in the USA, 1975-2022 --- 
 <a href="https://github.com/bencarneiro/ntsb">repo</a>
 <ul>
@@ -16,6 +17,7 @@ Access automobile fatality data for anywhere in the USA, 1975-2022 ---
   <li>Query, filter, and sort on hundreds of variables tracked by the feds</li>
   <li>FOSS API is generalized to allow developers to spin up frontend applications for any region</li>
 </ul>
+<img src="https://censusmaps.org/static/roadway.png">
 <br>
 
 ## <a href="https://censusmaps.org">censusmaps.org</a>
