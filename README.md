@@ -4,7 +4,7 @@ I like free software, public transit, databases, GIS systems, and those electric
 
 Always eager to learn new technologies.
 
-Looking for work! I'd love to be on your team, working on interesting stuff. 
+Looking for work! I'd love to be on your team, making an impact on real-world issues. 
 
 
 # Projects
