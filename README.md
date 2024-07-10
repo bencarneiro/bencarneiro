@@ -8,9 +8,8 @@ Looking for work! I'd love to be on your team, working on interesting stuff.
 
 
 # Projects
-## <a href="https://roadway.report">roadway.report</a> -- under development
-
-Access automobile fatality data for anywhere in the USA, 1975-2022 --- 
+## <a href="https://roadway.report">roadway.report</a>
+The Nation-Wide Vision Zero Viewer
 <a href="https://github.com/bencarneiro/ntsb">repo</a>
 <ul>
   <li>Click on any street and see anyone who has ever died there</li>
