@@ -1,6 +1,6 @@
 # Ben Carneiro - Software Engineer - <a href="https://censusmaps.org/resume">Resume</a>
 
-I like free software, public transit, databases, GIS systems, and those electric scooters that litter the streets. 
+I like free software, public transit, databases, django, maps, and those electric scooters that litter the streets. 
 
 Always eager to learn new technologies.
 
