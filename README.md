@@ -16,7 +16,7 @@ Click the map and see anyone who has ever died in a car accident there (2001-202
   <li>Query, filter, and sort on hundreds of variables tracked by the feds</li>
   <li>FOSS API is generalized to allow developers to spin up frontend applications for any region</li>
 </ul>
-<img src="https://censusmaps.org/static/roadway.png">
+<img src="https://censusmaps.org/static/death.png">
 <br>
 
 ## <a href="https://censusmaps.org">censusmaps.org</a>
