@@ -8,7 +8,7 @@ Looking for work! I'd love to be on your team, making an impact on real-world is
 
 
 # Projects
-## <a href="https://roadway.report">roadway.report</a> - The Nationwide Vision-Zero Viewer
+## <a href="https://roadway.report">roadway.report</a> - The Nationwide Vision-Zero Map
 Click the map and see anyone who has ever died in a car accident there (2001-2022)
 <a href="https://github.com/bencarneiro/ntsb">repo</a>
 <ul>
