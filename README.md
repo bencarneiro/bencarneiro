@@ -1,4 +1,4 @@
-# Ben Carneiro - Software Engineer - <a href="https://censusmaps.org/resume">Resume</a>
+# Ben Carneiro - Software Engineer - <a href="https://bencarneiro.com/static/ben_carneiro_resume.pdf">Resume</a> - <a href="https://bencarneiro.com">Portfolio</a>
 
 I like free software, public transit, databases, django, maps, and those electric scooters that litter the streets. 
 
